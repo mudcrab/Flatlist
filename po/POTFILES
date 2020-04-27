@@ -1,0 +1,7 @@
+data/io.pitfire.Flatlist.desktop.in
+data/io.pitfire.Flatlist.appdata.xml.in
+data/io.pitfire.Flatlist.gschema.xml
+src/window.ui
+src/main.js
+src/window.js
+
